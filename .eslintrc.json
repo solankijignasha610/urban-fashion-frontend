@@ -26,7 +26,6 @@
     }
   },
   "rules": {
-     "rules": {
     "no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
     "no-console": "warn",
     "no-debugger": "warn",
@@ -35,6 +34,5 @@
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-key": "warn",
     "no-empty": "warn"
-  }
   }
 }
