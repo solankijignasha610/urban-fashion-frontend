@@ -48,7 +48,7 @@ npm start
 ---
 
 ## 🌐 Deployment
-Frontend: (Netlify link)<br>
+Frontend: (Netlify link) <br>
 Backend: (Render link)
 ---
 
