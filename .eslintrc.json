@@ -33,6 +33,7 @@
     "react/prop-types": "off",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-key": "warn",
-    "no-empty": "warn"
+    "no-empty": "warn",
+    "react/react-in-jsx-scope": "off"
   }
 }
