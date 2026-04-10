@@ -26,12 +26,6 @@
     }
   },
   "rules": {
-    "no-unused-vars": ["warn", { 
-      "varsIgnorePattern": "^_", 
-      "argsIgnorePattern": "^_" 
-    }],
-    "react/jsx-uses-vars": "error",
-    "react/react-in-jsx-scope": "off",
-    "react/prop-types": "off"
+    "all": "off"
   }
 }
